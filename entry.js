@@ -1,2 +1,2 @@
-require("./style.scss");
+require("./style.sass");
 document.write(require('./content.js'));
